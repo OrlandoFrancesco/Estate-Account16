@@ -1,4 +1,4 @@
-e{
+{
     'name': "ESTATE_ACCOUNT",
     'version': '16.0',
     'author': "Francesco",
