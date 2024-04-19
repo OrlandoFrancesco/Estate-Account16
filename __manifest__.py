@@ -3,7 +3,7 @@
     'version': '16.0',
     'author': "Francesco",
     'description': """Modulo estate_account""",
-    'depends': ['estate', 'account'],
+    'depends': ['Estate16', 'account'],
     'data':[
         'report/estate_property_reports.xml'
     ]
